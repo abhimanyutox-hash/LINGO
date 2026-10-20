@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+.playwright-cli/
+.backend-state.json
+
