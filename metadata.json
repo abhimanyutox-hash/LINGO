@@ -1,0 +1,6 @@
+{
+  "name": "LingoQuest — Gamified Language Learning",
+  "description": "A tactile 3D gamified language learning platform with an S-curve progression path, interactive translation lessons, and instant evaluation feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

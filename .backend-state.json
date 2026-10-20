@@ -1,0 +1,25 @@
+{
+  "username": "Abhimanyu",
+  "handle": "@abhimanyu",
+  "completedLevelIndex": 2,
+  "xp": 1425,
+  "trophies": 309,
+  "duelsWon": 12,
+  "streakDays": 1,
+  "bestCombo": 5,
+  "nodeStars": {
+    "0": 3,
+    "1": 3
+  },
+  "revisedWordIds": [
+    "a1-1-1",
+    "a1-1-2",
+    "a1-1-3",
+    "a1-1-4"
+  ],
+  "lavaHighScore": 1000,
+  "doorRunnerHighScore": 1250,
+  "passedChapterTests": [],
+  "streakFreezes": 1,
+  "lastStreakClaimDate": null
+}
